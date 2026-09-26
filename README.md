@@ -107,6 +107,7 @@ Entre na pasta da API:
 
 ```powershell
 cd api
+ou a pasta da API
 ```
 
 Instale as bibliotecas:
